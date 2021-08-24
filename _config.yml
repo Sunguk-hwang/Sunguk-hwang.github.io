@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: 개발자 황성욱을 소개합니다
+about_title: 개발자 황성욱을 소개합니다
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   저는 오픈 소스 활용을 좋아하고 새로운 것을 배우는데 거리낌이 없는 주니어 백엔드 개발자 황성욱 입니다. 2021년 8월 현재 팀에서 Backend 개발 업무를 하고 있고, AWS Cloud, Docker 및 Kubernetes 에 관심이 있어서 이러한 기술을 Backend 개발에 적용하고 있습니다. 향후 Backend 및 DevOps 엔지니어를 목표로 하고 있습니다.
