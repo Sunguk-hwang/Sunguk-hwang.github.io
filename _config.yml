@@ -45,12 +45,13 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: 개발자 황성욱을 소개합니다
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  저는 오픈 소스 활용을 좋아하고 새로운 것을 배우는데 거리낌이 없는 주니어 백엔드 개발자 황성욱 입니다. 2021년 8월 현재 팀에서 Backend 개발 업무를 하고 있고, AWS Cloud, Docker 및 Kubernetes 에 관심이 있어서 이러한 기술을 Backend 개발에 적용하고 있습니다. 향후 Backend 및 DevOps 엔지니어를 목표로 하고 있습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  저의 기술 스택은 <mark>Node.js(TypeScript) + NestJS</mark>, <mark>Java + Spring Boot</mark>, <mark>Golang + Gin</mark> 입니다.
+  이외에도 <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>AWS</mark> 에 관심이 있어서 스터디 및 활용 중입니다.
 
 content:
   - title: Projects # Title for the section
